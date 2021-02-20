@@ -17,9 +17,18 @@
 
 // const student = {name: "Hasibul Hasan", age: 23};
 // console.log(student.motherName); //? there is no element/ properties named motherName in the student object
-//! null -here is nothing 
-let value = null;
 
-console.log(value);
+function doSomething(x, y){
+    console.log(y);
+    }
+    doSomething(32);
+//! null -here is nothing 
+// let value = null;
+
+// console.log(value);
+
+
+    
+    
 
 
